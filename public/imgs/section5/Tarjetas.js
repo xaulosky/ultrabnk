@@ -73,7 +73,10 @@ const Tarjetas = (props) => (
                 className="cls-16"
                 d="M1364.51 306.1v516.43H989.23V435.35c0-34.52 13.44-66.98 37.86-91.39s56.87-37.86 91.39-37.86h246.03m1-1h-247.03c-71.93 0-130.25 58.31-130.25 130.25v388.18h377.28V305.1Z"
             />
-            <text className="cls-7" transform="translate(1018.79 603.88)">
+            <text style={{
+                        letterspacing: ".01em",
+                        fontfamily: '"ibm plex sans", sans-serif'
+                    }} className="cls-7" transform="translate(1018.79 603.88)">
                 <tspan
                     x={0}
                     y={0}
@@ -187,7 +190,10 @@ const Tarjetas = (props) => (
                 className="cls-16"
                 d="M376.28 1v516.43H1V130.25c0-34.53 13.44-66.98 37.86-91.39C63.27 14.44 95.72 1 130.25 1h246.03m1-1H130.25C58.31 0 0 58.31 0 130.25v388.18h377.28V0Z"
             />
-            <text className="cls-7" transform="translate(33.58 322.86)">
+            <text style={{
+                        letterspacing: ".01em",
+                        fontfamily: '"ibm plex sans", sans-serif'
+                    }} className="cls-7" transform="translate(33.58 322.86)">
                 <tspan x={0} y={0}>
                     {"Iniciar tu ne"}
                 </tspan>
@@ -247,7 +253,10 @@ const Tarjetas = (props) => (
                 className="cls-16"
                 d="M1031.63 1v516.43H656.35V130.25c0-34.52 13.44-66.98 37.86-91.39C718.62 14.45 751.08 1 785.6 1h246.04m1-1H785.6c-71.93 0-130.25 58.31-130.25 130.25v388.18h377.28V0Z"
             />
-            <text className="cls-7" transform="translate(715.19 322.86)">
+            <text style={{
+                        letterspacing: ".01em",
+                        fontfamily: '"ibm plex sans", sans-serif'
+                    }} className="cls-7" transform="translate(715.19 322.86)">
                 <tspan x={0} y={0}>
                     {"Man"}
                 </tspan>
@@ -343,7 +352,10 @@ const Tarjetas = (props) => (
                 className="cls-16"
                 d="M700.1 306.1v516.43H324.81V435.35c0-34.52 13.44-66.98 37.86-91.39 24.41-24.41 56.87-37.86 91.39-37.86h246.03m1-1H454.06c-71.93 0-130.25 58.31-130.25 130.25v388.18h377.28V305.1Z"
             />
-            <text className="cls-7" transform="translate(367.34 627.97)">
+            <text style={{
+                        letterspacing: ".01em",
+                        fontfamily: '"ibm plex sans", sans-serif'
+                    }} className="cls-7" transform="translate(367.34 627.97)">
                 <tspan x={0} y={0}>
                     {"Eliminar m\xE1s del 80% de "}
                 </tspan>
