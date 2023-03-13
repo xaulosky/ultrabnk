@@ -10,17 +10,15 @@ const Section1 = () => {
     return (
         <Grid item xs={12} className="section1"
             sx={{
-                minHeight: { xs: "80vh", md: "100vh" },
-                maxHeight: { xs: "300px", md: "100vh" }
+                minHeight: { xs: "75vh", md: "100vh" }
             }}
         >
             <div style={{
                 zIndex: "-1",
                 position: "absolute",
-                top: "-100",
+                top: "-100 !important",
                 left: "0",
                 right: "0",
-                bottom: "0",
                 display: "flex",
                 justifyContent: "center"
             }}>
@@ -29,8 +27,7 @@ const Section1 = () => {
                 }} />
             </div>
             <Grid container style={{
-                height: "100vh",
-                maxHeight: "700px",
+                height: "75vh",
                 zIndex: 2
             }} spacing={0}>
                 <Grid item xs={12} style={{}}>
