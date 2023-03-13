@@ -52,6 +52,7 @@
 @media (max-width: 720px) {
   .tarjetaSeccion3 .lista > div {
     margin-bottom: 20px;
+    width: 50%;
   }
 }
 
