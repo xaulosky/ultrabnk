@@ -76,6 +76,7 @@ const Grafica2Seccion6 = (props) => (
                     y={0}
                     style={{
                         letterSpacing: ".01em",
+                        fontFamily: '"IBM Plex Sans", sans-serif'
                     }}
                 >
                     {"4 Millones USD"}

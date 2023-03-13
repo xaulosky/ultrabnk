@@ -4,42 +4,52 @@
     <style>
       .cls-1 {
         letter-spacing: 0em;
+         font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-2 {
         letter-spacing: 0em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-3 {
         letter-spacing: 0em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-4 {
         letter-spacing: 0em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-5 {
         letter-spacing: 0em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-6 {
         letter-spacing: 0em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-7 {
         letter-spacing: 0em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-8 {
         letter-spacing: 0em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-9 {
         letter-spacing: -.04em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-10 {
         font-size: 25.46px;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-10, .cls-11 {
@@ -49,41 +59,52 @@
 
       .cls-12 {
         letter-spacing: 0em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-13 {
         letter-spacing: 0em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-14 {
         letter-spacing: -.02em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-15 {
         letter-spacing: 0em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-16 {
         letter-spacing: 0em;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
+
 
       .cls-17 {
         fill: #0086ff;
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
       }
 
       .cls-18 {
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
         letter-spacing: 0em;
       }
 
       .cls-11 {
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
         font-size: 25.06px;
       }
 
       .cls-19 {
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
         fill: #f2f2f2;
       }
 
       .cls-20 {
+        font-family: "IBMPlexSans-Medium,'IBM Plex Sans'";
         letter-spacing: 0em;
       }
     </style>
