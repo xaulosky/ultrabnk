@@ -1,3 +1,4 @@
+import Tarjetas from '@/public/imgs/section5/Tarjetas'
 import { Grid, Hidden } from '@mui/material'
 import { Container } from '@mui/system'
 import React from 'react'
@@ -33,10 +34,14 @@ const Section5 = () => {
                 <Container>
                     <Grid container>
                         <Grid item xs={12} className="lista" >
-                            <img src='imgs/section5/Recurso 9.svg' style={{
-                                width: "90%",
+                            <Tarjetas style={{
+                                width: "100%",
                                 maxWidth: "700px"
                             }} />
+                            {/* <img src='imgs/section5/Recurso 9.svg' style={{
+                                width: "90%",
+                                maxWidth: "700px"
+                            }} /> */}
                         </Grid>
                         <h3> minimizamos <br /> <span> el </span> riesgo</h3>
                     </Grid>
@@ -53,6 +58,7 @@ const Section5 = () => {
                                 marginTop: "50px"
                             }}
                         > minimizamos <span> el </span> riesgo</h3>
+
                         <img src="icons/section5/Recurso 17.svg" alt="" style={{
                             width: "100%",
                             maxWidth: "700px"
