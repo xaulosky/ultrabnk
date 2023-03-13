@@ -11,14 +11,9 @@ import React from 'react'
 
 const Section3 = () => {
     return (
-        <Grid item xs={12} className="section3">
-            <Grid container style={{
-                background: "#0086FF"
-            }}>
-                <Container style={{
-                    paddingTop: "30px",
-                    paddingBottom: "30px"
-                }}
+        <Grid item xs={12} >
+            <Grid container className="section3">
+                <Container
                     sx={{ maxWidth: '1100px' }} maxWidth={false}
                 >
                     <Grid container>
@@ -27,7 +22,7 @@ const Section3 = () => {
                             justifyContent: "center",
                             alignItems: "center",
                             position: "relative"
-                        }} className="fadeIn">
+                        }} >
                             <div >
                                 <h3>
                                     Donde <br />
@@ -41,7 +36,6 @@ const Section3 = () => {
                                     left: "0",
                                     bottom: "0"
                                 }}
-                                className="fadeIn"
                             >
                                 <IconoVerdeSeccion3 width="200px" />
                             </div>
@@ -52,7 +46,6 @@ const Section3 = () => {
                                     <Grid item xs={12} style={{
                                         marginBottom: "70px"
                                     }}
-                                        className="fadeIn"
                                     >
                                         <div className='lista'>
                                             <Box component="div">

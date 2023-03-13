@@ -52,11 +52,11 @@ const Section7 = () => {
                         style={{
                             fontSize: "2.4em",
                             fontWeight: 200,
-                            marginBottom: "30px"
+                            marginBottom: "30px",
+                            textAlign: "center"
                         }}
                     >y te elaboramos una proyección de ROI <br />
                         para iniciar de inmediato.</span>
-
                     <Button variant="contained" style={{
                         background: "#6CED00",
                         color: "#000",

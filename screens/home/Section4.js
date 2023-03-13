@@ -44,7 +44,7 @@ const Section4 = () => {
                                     Qué hacemos
                                     <span> por tu </span> negocio
                                 </h3>
-                                <SemiCirculo width="100px" />
+                               {/*  <SemiCirculo width="100px" /> */}
                             </div>
                         </Box>
                     </Grid>

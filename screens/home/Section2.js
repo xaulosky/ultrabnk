@@ -6,7 +6,9 @@ import React from 'react'
 
 const Section2 = () => {
     return (
-        <Grid item xs={12} className="section2 ">
+        <Grid item xs={12} className="section2 " style={{
+            minHeight: "100vh"
+        }}>
             <Container /* sx={{ maxWidth: '100%' }} maxWidth={false} */>
                 <Grid container>
                     <Grid item md={6} style={{
@@ -14,7 +16,7 @@ const Section2 = () => {
                     }}>
                         <TelefonoSeccion2 style={{
                             marginRight: "-100px",
-                        }} className="telefonoSeccion2 fadeIn" />
+                        }} className="telefonoSeccion2 " />
                     </Grid>
                     <Grid item md={6}>
                         <Box component={'div'} style={{
@@ -22,7 +24,7 @@ const Section2 = () => {
                             zIndex: "-1",
                             position: "relative"
                         }}
-                            className={'tarjetaSeccion1 fadeIn'}
+                            className={'tarjetaSeccion1 '}
                         >
                             <h3>
                                 Simple <br />

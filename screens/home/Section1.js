@@ -8,9 +8,9 @@ import Fondo1 from '@/public/imgs/Fondo1'
 
 const Section1 = () => {
     return (
-        <Grid item xs={12} className="section1 "
+        <Grid item xs={12} className="section1"
             style={{
-                marginBottom: "100px"
+                minHeight: "100vh"
             }}
         >
             <div style={{
@@ -43,8 +43,8 @@ const Section1 = () => {
                 }} >
                     <UltraBNKlogo style={{
                         maxWidth: "80%",
-                        width: "800px"
-                    }} className="fadeIn" />
+                        width: "700px"
+                    }} />
                 </Grid>
                 <Grid item xs={12} style={{
                     display: "flex",
@@ -57,7 +57,7 @@ const Section1 = () => {
                         marginBottom: "50px",
                         marginTop: "-100px"
                     }}>TU BILLETERA VIRTUAL <b>SIN FRONTERAS</b> </h1>
-                    <IconosSeccion1  className="iconosSeccion1" />
+                    <IconosSeccion1 className="iconosSeccion1" />
                 </Grid>
             </Grid>
         </Grid>

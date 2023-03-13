@@ -12,8 +12,10 @@ const Section6 = () => {
         <Grid item xs={12} className="section6" style={{
             background: "#F2F2F2",
             position: "relative",
-            paddingTop: "150px",
-            paddingBottom: "120px"
+            minHeight: "100vh",
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center"
 
         }}>
             <Container>
