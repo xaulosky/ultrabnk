@@ -12,18 +12,25 @@ const Section5 = () => {
                         <div className='tarjetita'>
                             <Icono1Seccion5 />
                             <p>Iniciar tu negocio Fintech en tres meses, en toda la región.</p>
+                            <div className='franja'></div>
                         </div>
                         <div className='tarjetita'>
                             <Icono1Seccion5 />
                             <p>Iniciar tu negocio Fintech en tres meses, en toda la región.</p>
+                            <div className='franja'></div>
+
                         </div>
                         <div className='tarjetita'>
                             <Icono1Seccion5 />
                             <p>Iniciar tu negocio Fintech en tres meses, en toda la región.</p>
+                            <div className='franja'></div>
+
                         </div>
                         <div className='tarjetita'>
                             <Icono1Seccion5 />
                             <p>Iniciar tu negocio Fintech en tres meses, en toda la región.</p>
+                            <div className='franja'></div>
+
                         </div>
                     </Grid>
                 </Grid>

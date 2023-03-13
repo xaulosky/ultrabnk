@@ -8,6 +8,8 @@ import Section3 from '@/screens/home/Section3'
 import Section4 from '@/screens/home/Section4'
 import { useEffect } from 'react'
 import Section5 from '@/screens/home/Section5'
+import Section6 from '@/screens/home/Section6'
+import Section7 from '@/screens/home/Section7'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -41,28 +43,6 @@ export default function Home() {
     hiddenElements.forEach(el => observer.observe(el));
 
 
-
-    // Seleccionar todos los enlaces que contienen un href con un ID específico
-    const links = document.querySelectorAll('a[href^="#"]');
-
-    // Agregar un evento clic a cada enlace
-    links.forEach(link => {
-      link.addEventListener('click', function (e) {
-        e.preventDefault();
-
-        // Obtener el ID del elemento de destino
-        const id = this.getAttribute('href');
-
-        // Obtener la posición del elemento de destino
-        const targetPosition = document.querySelector(id).offsetTop;
-
-        // Animar el scroll de la página al elemento de destino
-        window.scrollTo({
-          top: targetPosition,
-          behavior: 'smooth'
-        });
-      });
-    });
   }, []);
 
   return (
@@ -80,6 +60,10 @@ export default function Home() {
           <Section3 />
           <Section4 />
           <Section5 />
+          <Section6 />
+          <Section7 />
+
+
         </Grid>
       </main>
     </>

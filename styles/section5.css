@@ -1,0 +1,34 @@
+.tarjetita {
+  width: 190px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid #f2f2f2;
+  padding: 50px 20px;
+  position: relative;
+}
+.tarjetita svg {
+  width: 100px;
+}
+.tarjetita p {
+  margin-top: 20px;
+  font-size: 1.6em;
+}
+
+.section5 .lista {
+  display: flex;
+  justify-content: center;
+}
+
+.section5 .tarjetita:nth-child(2n) {
+  margin-top: 100px;
+}
+
+.franja {
+  position: absolute;
+  bottom: 0;
+  height: 20px;
+  width: 100%;
+  background-color: #6CED00;
+}
