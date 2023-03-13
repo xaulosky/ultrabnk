@@ -4,7 +4,7 @@ const Degradado1 = (props) => (
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74.14 74.14" {...props}>
         <defs>
             <radialGradient
-                id="a"
+                id="qqqq"
                 cx={-65.38}
                 cy={66.98}
                 fx={-65.38}
@@ -33,7 +33,7 @@ const Degradado1 = (props) => (
             cy={37.07}
             r={37.07}
             style={{
-                fill: "url(#a)",
+                fill: "url(#qqqq)",
             }}
         />
     </svg>

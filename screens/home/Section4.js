@@ -1,9 +1,10 @@
-import IconBNK from '@/public/icons/iconBNK'
 import SemiCirculo from '@/public/icons/section4/SemiCirculo'
 import BurbujasBNK from '@/public/imgs/section4/BurbujasBNK'
 import { Grid } from '@mui/material'
 import { Box, Container } from '@mui/system'
 import React from 'react'
+import IconBNK from '@/public/icons/iconBNK'
+
 
 const Section4 = () => {
     return (

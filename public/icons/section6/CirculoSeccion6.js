@@ -10,7 +10,7 @@ const CirculoSeccion6 = (props) => (
     >
         <defs>
             <radialGradient
-                id="radial-gradient"
+                id="radial-gradienteeee"
                 cx={100.39}
                 cy={348.55}
                 fx={100.39}
@@ -34,7 +34,7 @@ const CirculoSeccion6 = (props) => (
                 <stop offset={0.97} stopColor="#141414" />
             </radialGradient>
             <radialGradient
-                id="radial-gradient-2"
+                id="radial-gradienteeee-2"
                 cx={216.88}
                 cy={211.51}
                 fx={216.88}
@@ -50,7 +50,7 @@ const CirculoSeccion6 = (props) => (
             </radialGradient>
             <style>
                 {
-                    ".cls-1{font-family:IBMPlexSans-Medium,'IBM Plex Sans';font-size:25px;font-weight:500;letter-spacing:.02em}.cls-4{fill:none;stroke:#999;stroke-miterlimit:10;stroke-width:.75px}"
+                    ".casesota2{font-family:IBMPlexSans-Medium,'IBM Plex Sans';font-size:25px;font-weight:500;letter-spacing:.02em}.casesota4{fill:none;stroke:#999;stroke-miterlimit:10;stroke-width:.75px}"
                 }
             </style>
         </defs>
@@ -68,26 +68,26 @@ const CirculoSeccion6 = (props) => (
                 cy={211.51}
                 r={185.6}
                 style={{
-                    fill: "url(#radial-gradient)",
+                    fill: "url(#radial-gradienteeee)",
                 }}
             />
             <path
                 d="M216.88 211.5 361.11 94.7c64.51 79.66 52.22 196.52-27.44 261.03-79.66 64.51-196.52 52.22-261.03-27.44-64.49-79.65-52.21-196.51 27.45-261.02 34.25-27.74 72.72-41.36 116.8-41.36V211.5Z"
                 style={{
-                    fill: "url(#radial-gradient-2)",
+                    fill: "url(#radial-gradienteeee-2)",
                 }}
             />
-            <text className="cls-1" transform="translate(472.72 323.09)">
+            <text className="casesota2" transform="translate(472.72 323.09)">
                 <tspan x={0} y={0}>
                     {"18 meses"}
                 </tspan>
             </text>
-            <text className="cls-1" transform="translate(471.48 94.52)">
+            <text className="casesota2" transform="translate(471.48 94.52)">
                 <tspan x={0} y={0}>
                     {"3 meses"}
                 </tspan>
             </text>
-            <path className="cls-4" d="M316.51 288.83H597.9M316.51 61.42H597.9" />
+            <path className="casesota4" d="M316.51 288.83H597.9M316.51 61.42H597.9" />
         </g>
     </svg>
 )
