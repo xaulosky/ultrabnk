@@ -25,7 +25,8 @@ const Section7 = () => {
                 justifyContent: "center"
             }}>
                 <Fondo1 style={{
-                    width: "800px",
+                    width: "90%",
+                    maxWidth: "700px",
                 }} />
             </div>
             <Grid container spacing={0} style={{

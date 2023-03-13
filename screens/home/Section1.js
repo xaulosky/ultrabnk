@@ -41,10 +41,16 @@ const Section1 = () => {
                     flexDirection: "column",
                     margin: "0"
                 }} >
-                    <UltraBNKlogo style={{
+
+                    <img src="imgs/logotipo.svg" alt="" style={{
+                        width: "90%",
+                        maxWidth: "700px"
+                    }} />
+
+                    {/* <UltraBNKlogo style={{
                         maxWidth: "80%",
                         width: "700px"
-                    }} />
+                    }} /> */}
                 </Grid>
                 <Grid item xs={12} style={{
                     display: "flex",
