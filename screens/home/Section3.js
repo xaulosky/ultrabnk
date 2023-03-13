@@ -81,8 +81,8 @@ const Section3 = () => {
                                         <FlechaDerecha style={{
                                             width: "80px"
                                         }} />
-                                        <h4>sin límites</h4> <br />
-                                        <p>Con la oportunidad de entregar una alternativa de pago a quienes no poseen tarjetas.</p>
+                                        <h4>sin límites</h4>
+                                        <p className='mb-mt-20'>Con la oportunidad de entregar una alternativa de pago a quienes no poseen tarjetas.</p>
                                     </Grid>
                                 </Grid>
                             </Box>

@@ -9,8 +9,9 @@ import Fondo1 from '@/public/imgs/Fondo1'
 const Section1 = () => {
     return (
         <Grid item xs={12} className="section1"
-            style={{
-                minHeight: "100vh"
+            sx={{
+                minHeight: { xs: "80vh", md: "100vh" },
+                maxHeight: { xs: "300px", md: "100vh" }
             }}
         >
             <div style={{

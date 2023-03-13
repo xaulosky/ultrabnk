@@ -7,7 +7,6 @@ const Section5 = () => {
     return (
         <Grid item xs={12} className="section5" style={{
             marginTop: "0px",
-            paddingBottom: "100px",
             position: "relative",
             marginBottom: "100px",
             zIndex: "2",
@@ -47,6 +46,12 @@ const Section5 = () => {
             <Hidden smUp>
                 <Grid container>
                     <Grid item xs={12}>
+                        <h3 className='text_center_mobil'
+                        style={{
+                            fontSize:"2em",
+                            marginBottom:"20px"
+                        }}
+                        > minimizamos <br /> <span> el </span> riesgo</h3>
                         <img src="icons/section5/Recurso 17.svg" alt="" style={{
                             width: "100%",
                             maxWidth: "700px"
@@ -55,7 +60,6 @@ const Section5 = () => {
                             width: "100%",
                             maxWidth: "700px"
                         }} />
-                        <h3 className='text_center_mobil'> minimizamos <br /> <span> el </span> riesgo</h3>
 
                     </Grid>
                 </Grid>

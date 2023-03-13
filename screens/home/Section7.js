@@ -60,7 +60,7 @@ const Section7 = () => {
                             textAlign: "center",
 
                         }}
-                    >y te elaboramos una proyección de ROI <br />
+                    >y te elaboramos una proyección de ROI
                         para iniciar de inmediato.</Typography>
                     <Button variant="contained" style={{
                         background: "#6CED00",

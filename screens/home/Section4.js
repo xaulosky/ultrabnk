@@ -9,8 +9,8 @@ import React from 'react'
 const Section4 = () => {
     return (
         <Grid item xs={12} className="section4 " style={{
-            paddingTop: "50px",
-            paddingBottom: "50px"
+            paddingTop: "30px",
+            paddingBottom: "10px"
         }}>
             <Container >
                 <Grid container className="contenido">
@@ -21,7 +21,9 @@ const Section4 = () => {
                     }}
 
                     >
-                        <BurbujasBNK className="burbujasSeccion4" />
+                        <Hidden only="xs">
+                            <BurbujasBNK className="burbujasSeccion4" />
+                        </Hidden>
                     </Grid>
                     <Grid item xs={12} md={6}>
                         <Box component={'div'} className="tarjetaSeccion4" style={{
