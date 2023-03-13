@@ -1,4 +1,4 @@
-import IconBNK from '@/public/icons/iconBNK'
+import IconBNK from '@/public/imgs/IconBNK'
 import Fondo1 from '@/public/imgs/Fondo1'
 import { Button, Grid } from '@mui/material'
 import { Ultra } from 'next/font/google'

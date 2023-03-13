@@ -9,6 +9,7 @@ const Section5 = () => {
             <Container>
                 <Grid container>
                     <Grid item xs={12} className="lista">
+
                         <div className='tarjetita'>
                             <Icono1Seccion5 />
                             <p>Iniciar tu negocio Fintech en tres meses, en toda la región.</p>

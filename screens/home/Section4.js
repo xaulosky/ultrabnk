@@ -1,4 +1,4 @@
-import IconBNK from '@/public/icons/iconBNK'
+import IconBNK from '@/public/imgs/IconBNK'
 import SemiCirculo from '@/public/icons/section4/SemiCirculo'
 import BurbujasBNK from '@/public/imgs/section4/BurbujasBNK'
 import { Grid } from '@mui/material'
