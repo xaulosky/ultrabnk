@@ -47,11 +47,12 @@ const Section5 = () => {
                 <Grid container>
                     <Grid item xs={12}>
                         <h3 className='text_center_mobil'
-                        style={{
-                            fontSize:"2em",
-                            marginBottom:"20px"
-                        }}
-                        > minimizamos <br /> <span> el </span> riesgo</h3>
+                            style={{
+                                fontSize: "2em",
+                                marginBottom: "50px",
+                                marginTop: "50px"
+                            }}
+                        > minimizamos <span> el </span> riesgo</h3>
                         <img src="icons/section5/Recurso 17.svg" alt="" style={{
                             width: "100%",
                             maxWidth: "700px"
