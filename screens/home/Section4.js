@@ -1,7 +1,7 @@
 import IconBNK from '@/public/imgs/IconBNK'
 import SemiCirculo from '@/public/icons/section4/SemiCirculo'
 import BurbujasBNK from '@/public/imgs/section4/BurbujasBNK'
-import { Grid } from '@mui/material'
+import { Grid, Hidden } from '@mui/material'
 import { Box, Container } from '@mui/system'
 import React from 'react'
 
@@ -13,15 +13,15 @@ const Section4 = () => {
             paddingBottom: "50px"
         }}>
             <Container >
-                <Grid container>
+                <Grid container className="contenido">
                     <Grid item md={6} style={{
                         display: "flex",
                         justifyContent: "center",
                         alignItems: "center"
-                    }}>
-                        <BurbujasBNK style={{
-                            width: "350px"
-                        }} />
+                    }}
+
+                    >
+                        <BurbujasBNK className="burbujasSeccion4" />
                     </Grid>
                     <Grid item xs={12} md={6}>
                         <Box component={'div'} className="tarjetaSeccion4" style={{
@@ -32,9 +32,11 @@ const Section4 = () => {
                                 top: "30px",
                                 right: "30px"
                             }}>
-                                <IconBNK style={{
-                                    width: "100px"
-                                }} />
+                                <Hidden only={'xs'}>
+                                    <IconBNK style={{
+                                        width: "100px"
+                                    }} />
+                                </Hidden>
                             </div>
 
                             <div style={{
@@ -44,7 +46,7 @@ const Section4 = () => {
                                     Qué hacemos
                                     <span> por tu </span> negocio
                                 </h3>
-                               {/*  <SemiCirculo width="100px" /> */}
+                                {/*  <SemiCirculo width="100px" /> */}
                             </div>
                         </Box>
                     </Grid>

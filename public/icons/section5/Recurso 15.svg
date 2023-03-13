@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 701.1 823.53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: #fff;
+        font-family: IBMPlexSans, 'IBM Plex Sans';
+        font-size: 24px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        fill: #f2f2f2;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        fill: #6ced00;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="350.55" y1="-252.61" x2="350.55" y2="623.88" gradientUnits="userSpaceOnUse">
+      <stop offset=".43" stop-color="#6ced00"/>
+      <stop offset=".47" stop-color="#62e317"/>
+      <stop offset=".67" stop-color="#38bc79"/>
+      <stop offset=".83" stop-color="#1a9ec1"/>
+      <stop offset=".94" stop-color="#078ced"/>
+      <stop offset="1" stop-color="#0086ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="678.06" y1="-252.61" x2="678.06" y2="623.88" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <rect class="cls-12" y="467.93" width="377.28" height="50.5"/>
+    <path class="cls-8" d="M377.28,518.43v-188.29c-32.41,23.69-53.47,61.99-53.47,105.21v83.08h53.47Z"/>
+    <rect class="cls-1" x="655.35" y="305.1" width="45.42" height="213.33"/>
+    <path class="cls-10" d="M376.28,1V517.43H1V130.25C1,95.72,14.44,63.27,38.86,38.86,63.27,14.44,95.72,1,130.25,1h246.04m1-1H130.25C58.31,0,0,58.31,0,130.25v388.18H377.28V0h0Z"/>
+    <text class="cls-6" transform="translate(33.58 322.86)"><tspan x="0" y="0">Iniciar tu ne</tspan><tspan class="cls-7" x="129.12" y="0">g</tspan><tspan x="141.65" y="0">ocio Fin</tspan><tspan class="cls-3" x="225.31" y="0">t</tspan><tspan x="233.64" y="0">ech </tspan><tspan x="0" y="28.8">en t</tspan><tspan class="cls-4" x="40.9" y="28.8">r</tspan><tspan x="49.58" y="28.8">es mese</tspan><tspan class="cls-11" x="139.1" y="28.8">s</tspan><tspan x="150.67" y="28.8">, en </tspan><tspan class="cls-2" x="195.33" y="28.8">t</tspan><tspan class="cls-9" x="203.66" y="28.8">oda la </tspan><tspan class="cls-4" x="0" y="57.6">r</tspan><tspan x="8.69" y="57.6">egión.</tspan></text>
+    <path class="cls-10" d="M700.1,306.1V822.53H324.81V435.35c0-34.52,13.44-66.98,37.86-91.39,24.41-24.41,56.87-37.86,91.39-37.86h246.03m1-1h-247.03c-71.93,0-130.25,58.31-130.25,130.25v388.18h377.28V305.1h0Z"/>
+    <text class="cls-6" transform="translate(367.34 627.97)"><tspan x="0" y="0">Eliminar más del 80% de </tspan><tspan x="0" y="28.8">los </tspan><tspan class="cls-7" x="37.32" y="28.8">c</tspan><tspan x="49.25" y="28.8">o</tspan><tspan class="cls-5" x="62.69" y="28.8">s</tspan><tspan class="cls-2" x="74.21" y="28.8">t</tspan><tspan x="82.54" y="28.8">os y tiempos de </tspan><tspan x="0" y="57.6">implementación.</tspan></text>
+    <rect class="cls-12" x="323.81" y="773.03" width="377.28" height="50.5"/>
+    <g>
+      <path class="cls-10" d="M187.73,90.74c21.36,.25,41.42,8.56,56.7,23.49l-56.7,56.7V90.74m-1-1.01v83.61l59.12-59.12c-15.13-15.13-36.03-24.49-59.12-24.49h0Z"/>
+      <path class="cls-10" d="M185.73,90.74v85.02l1.71-1.71,58.41-58.41c15.16,15.52,23.49,35.97,23.49,57.7,0,45.55-37.06,82.61-82.61,82.61s-82.61-37.06-82.61-82.61,36.52-82.07,81.61-82.6m1-1.01c-46.18,0-83.61,37.43-83.61,83.61s37.43,83.61,83.61,83.61,83.61-37.43,83.61-83.61c0-23.09-9.36-43.99-24.49-59.12l-59.12,59.12V89.73h0Z"/>
+    </g>
+    <g>
+      <path class="cls-10" d="M501.66,378.02c15.61,0,28.32,12.7,28.32,28.32s-12.7,28.32-28.32,28.32-28.32-12.7-28.32-28.32,12.7-28.32,28.32-28.32m0-1c-16.19,0-29.32,13.13-29.32,29.32s13.13,29.32,29.32,29.32,29.32-13.13,29.32-29.32-13.13-29.32-29.32-29.32h0Z"/>
+      <path class="cls-10" d="M530.98,428.56c15.61,0,28.32,12.7,28.32,28.32s-12.7,28.32-28.32,28.32-28.32-12.7-28.32-28.32,12.7-28.32,28.32-28.32m0-1c-16.19,0-29.32,13.13-29.32,29.32s13.13,29.32,29.32,29.32,29.32-13.13,29.32-29.32-13.13-29.32-29.32-29.32h0Z"/>
+      <path class="cls-10" d="M501.66,479.89c15.61,0,28.32,12.7,28.32,28.32s-12.7,28.32-28.32,28.32-28.32-12.7-28.32-28.32,12.7-28.32,28.32-28.32m0-1c-16.19,0-29.32,13.13-29.32,29.32s13.13,29.32,29.32,29.32,29.32-13.13,29.32-29.32-13.13-29.32-29.32-29.32h0Z"/>
+    </g>
+  </g>
+</svg>

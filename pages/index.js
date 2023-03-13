@@ -51,7 +51,7 @@ export default function Home() {
         <title>UltraBNK</title>
         <meta name="description" content="Descripción importante" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/IconBNK.svg" />
+        <link rel="icon" href="/icono.svg" />
       </Head>
       <main >
         <Grid container>

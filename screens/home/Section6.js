@@ -21,10 +21,11 @@ const Section6 = () => {
             <Container>
                 <div style={{ position: "absolute", top: "0", left: "0" }}>
                     <Icono1Seccion6 style={{
-                        width: "450px"
+                        maxWidth: "450px",
+                        width: "80%"
                     }} />
                 </div>
-                <Grid container>
+                <Grid container className='contenido'>
                     <Grid item md={4} style={{
                         display: "flex",
                         flexDirection: "column",
@@ -32,8 +33,10 @@ const Section6 = () => {
                     }}>
                         <h3 style={{
                             marginBottom: "50px"
-                        }}>Comparativa <span>de</span>  <br /> implementación</h3>
-                        <div
+                        }}
+                            className="text_center_mobil"
+                        >Comparativa <span>de</span>  <br /> implementación</h3>
+                        <div className='degradado'
                             style={{
                                 display: "flex",
                                 alignItems: "center",
@@ -69,53 +72,59 @@ const Section6 = () => {
                             display: "flex",
                             justifyContent: "center",
                             alignItems: "center",
-                            flexDirection: "column"
+                            flexDirection: "column",
+                            marginBottom: "20px",
+                            marginTop:"20px"
                         }}
                     >
-                        <span
-                            style={{
-                                background: "#333333",
-                                padding: "5px 10px 5px 15px",
-                                borderRadius: "16px",
-                                letterSpacing: "5px",
-                                marginBottom: "30px",
-                                fontWeight: "500",
-                                fontSize: "1.6em"
-                            }}
-                        >tiempo</span>
-                        <CirculoSeccion6
-                            style={{
-                                maxWidth: "400px"
-                            }}
-                        />
-                    </Grid>
-                    <Grid item md={4}
+                    <span
                         style={{
-                            display: "flex",
-                            justifyContent: "center",
-                            alignItems: "center",
-                            flexDirection: "column",
+                            background: "#333333",
+                            padding: "5px 10px 5px 15px",
+                            borderRadius: "16px",
+                            letterSpacing: "5px",
+                            marginBottom: "30px",
                             fontWeight: "500",
                             fontSize: "1.6em"
                         }}
-                    >
-                        <span
-                            style={{
-                                background: "#333333",
-                                padding: "5px 10px 5px 15px",
-                                borderRadius: "16px",
-                                letterSpacing: "5px",
-                                marginBottom: "30px",
-                                fontWeight: "500"
-                            }}
-                        >inversión</span>
-                        <Grafica2Seccion6 style={{
-                            maxHeight: "300px",
-                        }} />
-                    </Grid>
+                    >tiempo</span>
+                    <CirculoSeccion6
+                        style={{
+                            maxWidth: "400px"
+                        }}
+                        className="grafico1"
+                    />
                 </Grid>
-            </Container>
+                <Grid item xs={12} md={4}
+                    style={{
+                        display: "flex",
+                        justifyContent: "center",
+                        alignItems: "center",
+                        flexDirection: "column",
+                        fontWeight: "500",
+                        fontSize: "1.6em"
+                    }}
+                >
+                    <span
+                        style={{
+                            background: "#333333",
+                            padding: "5px 10px 5px 15px",
+                            borderRadius: "16px",
+                            letterSpacing: "5px",
+                            marginBottom: "30px",
+                            fontWeight: "500"
+                        }}
+                    >inversión</span>
+                    <Grafica2Seccion6 style={{
+                        maxHeight: "300px",
+                    }}
+                        className="grafico2"
+                    />
+
+                </Grid>
         </Grid>
+            </Container >
+        </Grid >
     )
 }
 

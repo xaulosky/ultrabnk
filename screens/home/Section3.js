@@ -4,7 +4,7 @@ import Icono2Seccion3 from '@/public/icons/section3/Icono2Seccion3'
 import Icono3Seccion3 from '@/public/icons/section3/Icono3Seccion3'
 import Icono4Seccion3 from '@/public/icons/section3/Icono4Seccion3'
 import IconoVerdeSeccion3 from '@/public/icons/IconoVerdeSeccion3'
-import { Grid } from '@mui/material'
+import { Grid, Hidden } from '@mui/material'
 import { Box, Container } from '@mui/system'
 import React from 'react'
 
@@ -17,11 +17,12 @@ const Section3 = () => {
                     sx={{ maxWidth: '1100px' }} maxWidth={false}
                 >
                     <Grid container>
-                        <Grid item xs={12} md={5} style={{
+                        <Grid item xs={12} md={5} sx={{
                             display: "flex",
                             justifyContent: "center",
                             alignItems: "center",
-                            position: "relative"
+                            position: "relative",
+                            marginTop: { xs: "100px", md: "0" }
                         }} >
                             <div >
                                 <h3>
@@ -37,7 +38,9 @@ const Section3 = () => {
                                     bottom: "0"
                                 }}
                             >
-                                <IconoVerdeSeccion3 width="200px" />
+                                <Hidden only="xs">
+                                    <IconoVerdeSeccion3 width="200px" />
+                                </Hidden>
                             </div>
                         </Grid>
                         <Grid item xs={12} md={7}>
@@ -64,7 +67,7 @@ const Section3 = () => {
                                                 <div>
                                                     <Icono3Seccion3 />
                                                 </div>
-                                                <p>Transferir al extrajero</p>
+                                                <p>Transferir al extranjero</p>
                                             </Box>
                                             <Box component="div">
                                                 <div>
@@ -78,7 +81,7 @@ const Section3 = () => {
                                         <FlechaDerecha style={{
                                             width: "80px"
                                         }} />
-                                        <h4>sin límites</h4>
+                                        <h4>sin límites</h4> <br />
                                         <p>Con la oportunidad de entregar una alternativa de pago a quienes no poseen tarjetas.</p>
                                     </Grid>
                                 </Grid>

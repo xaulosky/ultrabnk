@@ -92,7 +92,7 @@ const Grafica2Seccion6 = (props) => (
                 }}
             >
                 <tspan x={0} y={0}>
-                    {"400 Mil UDS"}
+                    {"400 Mil USD"}
                 </tspan>
             </text>
             <path

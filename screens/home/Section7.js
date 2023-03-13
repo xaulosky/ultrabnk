@@ -1,6 +1,6 @@
 import IconBNK from '@/public/imgs/IconBNK'
 import Fondo1 from '@/public/imgs/Fondo1'
-import { Button, Grid } from '@mui/material'
+import { Button, Grid, Typography } from '@mui/material'
 import { Ultra } from 'next/font/google'
 import React from 'react'
 
@@ -42,22 +42,26 @@ const Section7 = () => {
                     flexDirection: "column",
                     margin: "0",
                 }}>
-                    <h4 style={{
+                    <Typography component="h3" sx={{
                         fontWeight: "600",
                         color: "#fff",
-                        fontSize: "5em",
-                        marginBottom: "30px"
-                    }}>Contáctate con nosotros</h4>
+                        fontSize: { xs: "3em", md: "5em" },
+                        marginBottom: "30px",
+                    }}
+                        className="text_center_mobil"
+                    >Contáctate con nosotros</Typography >
 
-                    <span
-                        style={{
-                            fontSize: "2.4em",
+
+                    <Typography component="span"
+                        sx={{
+                            fontSize: { xs: "1.8em", md: "2.4" },
                             fontWeight: 200,
                             marginBottom: "30px",
-                            textAlign: "center"
+                            textAlign: "center",
+
                         }}
                     >y te elaboramos una proyección de ROI <br />
-                        para iniciar de inmediato.</span>
+                        para iniciar de inmediato.</Typography>
                     <Button variant="contained" style={{
                         background: "#6CED00",
                         color: "#000",
@@ -66,7 +70,9 @@ const Section7 = () => {
                         fontWeight: "500",
                         padding: "10px 30px 10px 30px",
                         borderRadius: "50px"
-                    }}>info@ultrabnk.com</Button>
+                    }}
+                        href={`mailto:info@ultrabnk.com`}
+                    >info@ultrabnk.com</Button>
                 </Grid>
                 <Grid item xs={12} style={{
                     display: "flex",

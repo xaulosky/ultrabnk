@@ -6,17 +6,21 @@ import React from 'react'
 
 const Section2 = () => {
     return (
-        <Grid item xs={12} className="section2 " style={{
+        <Grid item xs={12} className="section2 " sx={{
             paddingTop: "100px",
-            paddingBottom: "100px"
+            paddingBottom: { xs: "0", md: "100px" }
         }}>
-            <Container /* sx={{ maxWidth: '100%' }} maxWidth={false} */>
+            <Container /* sx={{ maxWidth: '100%' }} maxWidth={false} */ style={{
+                padding: "0"
+            }}>
                 <Grid container>
-                    <Grid item md={6} style={{
-                        zIndex: "9"
+                    <Grid item md={6} sx={{
+                        zIndex: "9",
+                        display: { xs: "flex" },
+                        justifyContent: "center"
                     }}>
-                        <TelefonoSeccion2 style={{
-                            marginRight: "-100px",
+                        <TelefonoSeccion2 sx={{
+                            marginRight: { xs: "-100px", md: "0" },
                         }} className="telefonoSeccion2 " />
                     </Grid>
                     <Grid item md={6}>
@@ -52,7 +56,7 @@ const Section2 = () => {
 
                 </Grid>
             </Container>
-        </Grid>
+        </Grid >
     )
 }
 

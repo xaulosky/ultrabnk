@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 710.16 823.53">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: #fff;
+        font-family: IBMPlexSans, 'IBM Plex Sans';
+        font-size: 24px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        fill: #0086ff;
+      }
+
+      .cls-10 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        fill: #f2f2f2;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="355.08" y1="-252.6" x2="355.08" y2="623.88" gradientUnits="userSpaceOnUse">
+      <stop offset=".43" stop-color="#6ced00"/>
+      <stop offset=".47" stop-color="#62e317"/>
+      <stop offset=".67" stop-color="#38bc79"/>
+      <stop offset=".83" stop-color="#1a9ec1"/>
+      <stop offset=".94" stop-color="#078ced"/>
+      <stop offset="1" stop-color="#0086ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <rect class="cls-9" y="467.93" width="377.28" height="50.5"/>
+    <path class="cls-11" d="M377.28,518.43v-181.02c-27.21,23.87-44.4,58.9-44.4,97.95v83.08h44.4Z"/>
+    <rect class="cls-9" x="332.88" y="773.03" width="377.28" height="50.5"/>
+    <path class="cls-13" d="M709.16,306.1V822.53H333.88V435.35c0-34.52,13.44-66.98,37.86-91.39s56.87-37.86,91.39-37.86h246.03m1-1h-247.03c-71.93,0-130.25,58.31-130.25,130.25v388.18h377.28V305.1h0Z"/>
+    <text class="cls-6" transform="translate(363.44 603.88)"><tspan class="cls-10" x="0" y="0">F</tspan><tspan class="cls-14" x="12.46" y="0">av</tspan><tspan x="36.7" y="0">o</tspan><tspan class="cls-3" x="50.14" y="0">r</tspan><tspan x="58.82" y="0">e</tspan><tspan class="cls-7" x="72" y="0">c</tspan><tspan x="83.93" y="0">er el c</tspan><tspan class="cls-3" x="149.01" y="0">r</tspan><tspan x="157.7" y="0">ecimien</tspan><tspan class="cls-1" x="242.71" y="0">t</tspan><tspan x="251.04" y="0">o de </tspan><tspan x="0" y="28.8">tu ne</tspan><tspan class="cls-7" x="54.53" y="28.8">g</tspan><tspan x="67.06" y="28.8">oci</tspan><tspan class="cls-12" x="98.57" y="28.8">o</tspan><tspan x="111.53" y="28.8">, aumentando al </tspan><tspan x="0" y="57.6">menos 5 pun</tspan><tspan class="cls-1" x="139.8" y="57.6">t</tspan><tspan x="148.13" y="57.6">os po</tspan><tspan class="cls-3" x="206.28" y="57.6">r</tspan><tspan class="cls-7" x="214.96" y="57.6">c</tspan><tspan x="226.89" y="57.6">entuales </tspan><tspan x="0" y="86.4">del EB</tspan><tspan class="cls-5" x="68.95" y="86.4">I</tspan><tspan x="78.38" y="86.4">T lue</tspan><tspan class="cls-7" x="131.11" y="86.4">g</tspan><tspan x="143.64" y="86.4">o de 12 meses </tspan><tspan x="0" y="115.2">de iniciar el ne</tspan><tspan class="cls-7" x="155.93" y="115.2">g</tspan><tspan x="168.45" y="115.2">ocio Fin</tspan><tspan class="cls-2" x="252.12" y="115.2">t</tspan><tspan x="260.44" y="115.2">ech.</tspan></text>
+    <path class="cls-13" d="M376.28,1V517.43H1V130.25C1,95.72,14.44,63.27,38.86,38.86,63.27,14.44,95.72,1,130.25,1h246.04m1-1H130.25C58.31,0,0,58.31,0,130.25v388.18H377.28V0h0Z"/>
+    <text class="cls-6" transform="translate(59.84 322.86)"><tspan x="0" y="0">Man</tspan><tspan class="cls-1" x="45.94" y="0">t</tspan><tspan x="54.26" y="0">ener un p</tspan><tspan class="cls-3" x="155.57" y="0">r</tspan><tspan x="164.25" y="0">o</tspan><tspan class="cls-7" x="177.69" y="0">c</tspan><tspan x="189.62" y="0">eso de </tspan><tspan x="0" y="28.8">inn</tspan><tspan class="cls-14" x="33.26" y="28.8">o</tspan><tspan class="cls-4" x="46.51" y="28.8">v</tspan><tspan x="58.1" y="28.8">ación permanen</tspan><tspan class="cls-2" x="231.84" y="28.8">t</tspan><tspan x="240.17" y="28.8">e </tspan><tspan class="cls-7" x="0" y="57.6">c</tspan><tspan x="11.93" y="57.6">on nu</tspan><tspan class="cls-8" x="71.93" y="57.6">ev</tspan><tspan x="96.53" y="57.6">os p</tspan><tspan class="cls-3" x="141.24" y="57.6">r</tspan><tspan x="149.92" y="57.6">oduc</tspan><tspan class="cls-1" x="202.99" y="57.6">t</tspan><tspan x="211.32" y="57.6">os </tspan><tspan x="0" y="86.4">fin</tspan><tspan class="cls-1" x="27.24" y="86.4">t</tspan><tspan x="35.57" y="86.4">ech cada 6 semana</tspan><tspan class="cls-3" x="242.54" y="86.4">s</tspan><tspan x="254.11" y="86.4">.</tspan></text>
+    <g>
+      <path class="cls-13" d="M188.64,86.37c34.05,0,61.75,27.7,61.75,61.75s-27.7,61.75-61.75,61.75-61.75-27.7-61.75-61.75,27.7-61.75,61.75-61.75m0-1c-34.65,0-62.75,28.09-62.75,62.75s28.09,62.75,62.75,62.75,62.75-28.09,62.75-62.75-28.09-62.75-62.75-62.75h0Z"/>
+      <path class="cls-13" d="M229.31,211.04c-.53,22.21-18.77,40.12-41.11,40.12s-40.58-17.91-41.11-40.12h82.22m1.01-1h-84.25c0,23.26,18.86,42.12,42.12,42.12s42.12-18.86,42.12-42.12h0Z"/>
+      <path class="cls-13" d="M188.66,127.21c11.53,0,20.91,9.38,20.91,20.91s-9.38,20.91-20.91,20.91-20.91-9.38-20.91-20.91,9.38-20.91,20.91-20.91m0-1c-12.1,0-21.91,9.81-21.91,21.91s9.81,21.91,21.91,21.91,21.91-9.81,21.91-21.91-9.81-21.91-21.91-21.91h0Z"/>
+    </g>
+    <g>
+      <path class="cls-13" d="M494.99,467.39l-12.23,54.82h-37.68l12.23-54.82h37.68m1.25-1h-39.72l-12.68,56.82h39.72l12.68-56.82h0Z"/>
+      <path class="cls-13" d="M553.39,420.12l-22.78,102.09h-37.68l22.78-102.09h37.68m1.25-1h-39.72l-23.23,104.09h39.72l23.23-104.09h0Z"/>
+      <path class="cls-13" d="M611.79,372.85l-33.33,149.36h-37.68l33.33-149.36h37.68m1.25-1h-39.72l-33.77,151.36h39.72l33.77-151.36h0Z"/>
+    </g>
+  </g>
+</svg>
