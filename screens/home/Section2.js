@@ -7,7 +7,8 @@ import React from 'react'
 const Section2 = () => {
     return (
         <Grid item xs={12} className="section2 " style={{
-            minHeight: "100vh"
+            paddingTop: "100px",
+            paddingBottom: "100px"
         }}>
             <Container /* sx={{ maxWidth: '100%' }} maxWidth={false} */>
                 <Grid container>
