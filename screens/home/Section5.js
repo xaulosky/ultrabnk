@@ -11,9 +11,9 @@ const Section5 = () => {
             position: "relative",
             marginBottom: "100px",
             zIndex: "2",
-                display:"flex",
-                justifyContent:"center",
-                alignItems:"center"
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center"
         }}>
             <div style={{
                 position: "absolute",
@@ -37,8 +37,8 @@ const Section5 = () => {
                             width: "90%",
                             maxWidth: "700px"
                         }} />
-
                     </Grid>
+                    <h3> minimizamos <br /> <span> el </span> riesgo</h3>
                 </Grid>
             </Container>
         </Grid>
