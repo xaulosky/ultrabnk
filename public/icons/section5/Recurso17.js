@@ -132,12 +132,12 @@ const Recurso17 = (props) => (
                 d="M954.76 403.59v539.34H562.8v-410.1c0-34.52 13.44-66.98 37.86-91.39 24.41-24.41 56.87-37.86 91.39-37.86h262.71m1-1H692.05c-71.93 0-130.25 58.31-130.25 130.25v411.1h393.96V402.59Z"
             />
             <text className="cls-6" transform="translate(607.25 739.72)" style={{
-          fill: "#fff",
-          fontFamily: "IBMPlexSans,'IBM Plex Sans'",
-          fontSize: "25.46px",
-        }}>
+                fill: "#fff",
+                fontFamily: "IBMPlexSans,'IBM Plex Sans'",
+                fontSize: "25.46px",
+            }}>
                 <tspan x={0} y={0}>
-                    {"Eliminar m\xE1s del 80% de "}
+                    {"Eliminar más del 80% de "}
                 </tspan>
                 <tspan x={0} y={30.07}>
                     {"los "}
@@ -158,7 +158,7 @@ const Recurso17 = (props) => (
                     {"os y tiempos de "}
                 </tspan>
                 <tspan x={0} y={60.15}>
-                    {"implementaci\xF3n."}
+                    {"implementación."}
                 </tspan>
             </text>
             <path className="cls-8" d="M561.8 891.2h393.96v52.73H561.8z" />
