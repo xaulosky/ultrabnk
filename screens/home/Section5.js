@@ -1,3 +1,5 @@
+import Recurso17 from '@/public/icons/section5/Recurso17'
+import Recurso18 from '@/public/icons/section5/Recurso18'
 import Tarjetas from '@/public/imgs/section5/Tarjetas'
 import { Grid, Hidden } from '@mui/material'
 import { Container } from '@mui/system'
@@ -59,14 +61,15 @@ const Section5 = () => {
                             }}
                         > minimizamos <span> el </span> riesgo</h3>
 
-                        <img src="icons/section5/Recurso 17.svg" alt="" style={{
+                        <Recurso17 style={{
                             width: "100%",
                             maxWidth: "700px"
                         }} />
-                        <img src="icons/section5/Recurso 18.svg" alt="" style={{
+                        <Recurso18 style={{
                             width: "100%",
                             maxWidth: "700px"
                         }} />
+
 
                     </Grid>
                 </Grid>
