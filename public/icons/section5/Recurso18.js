@@ -86,10 +86,7 @@ const SvgComponent = (props) => (
                 <tspan
                     x={188.48}
                     y={0}
-                    style={{
-                        letterSpacing: 0,
-                        fontFamily: "&quot",
-                    }}
+
                 >
                     {"c"}
                 </tspan>
@@ -102,20 +99,14 @@ const SvgComponent = (props) => (
                 <tspan
                     x={35.28}
                     y={30.55}
-                    style={{
-                        letterSpacing: 0,
-                        fontFamily: "&quot",
-                    }}
+
                 >
                     {"o"}
                 </tspan>
                 <tspan
                     x={49.33}
                     y={30.55}
-                    style={{
-                        letterSpacing: 0,
-                        fontFamily: "&quot",
-                    }}
+
                 >
                     {"v"}
                 </tspan>
@@ -131,10 +122,7 @@ const SvgComponent = (props) => (
                 <tspan
                     x={0}
                     y={61.1}
-                    style={{
-                        letterSpacing: 0,
-                        fontFamily: "&quot",
-                    }}
+
                 >
                     {"c"}
                 </tspan>
@@ -206,20 +194,14 @@ const SvgComponent = (props) => (
                 <tspan
                     x={0}
                     y={0}
-                    style={{
-                        letterSpacing: "-.04em",
-                        fontFamily: "&quot",
-                    }}
+
                 >
                     {"F"}
                 </tspan>
                 <tspan
                     x={13.01}
                     y={0}
-                    style={{
-                        fontFamily: "&quot",
-                        letterSpacing: 0,
-                    }}
+
                 >
                     {"av"}
                 </tspan>
@@ -262,10 +244,7 @@ const SvgComponent = (props) => (
                 <tspan
                     x={102.92}
                     y={30.07}
-                    style={{
-                        letterSpacing: "-.02em",
-                        fontFamily: "&quot",
-                    }}
+
                 >
                     {"o"}
                 </tspan>
@@ -278,10 +257,7 @@ const SvgComponent = (props) => (
                 <tspan
                     x={145.98}
                     y={60.15}
-                    style={{
-                        letterSpacing: 0,
-                        fontFamily: "&quot",
-                    }}
+
                 >
                     {"t"}
                 </tspan>
@@ -294,10 +270,7 @@ const SvgComponent = (props) => (
                 <tspan
                     x={224.47}
                     y={60.15}
-                    style={{
-                        letterSpacing: 0,
-                        fontFamily: "&quot",
-                    }}
+
                 >
                     {"c"}
                 </tspan>
@@ -310,10 +283,7 @@ const SvgComponent = (props) => (
                 <tspan
                     x={72}
                     y={90.22}
-                    style={{
-                        letterSpacing: 0,
-                        fontFamily: "&quot",
-                    }}
+
                 >
                     {"I"}
                 </tspan>
