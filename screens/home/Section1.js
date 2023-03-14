@@ -10,7 +10,8 @@ const Section1 = () => {
     return (
         <Grid item xs={12} className="section1"
             sx={{
-                minHeight: { xs: "75vh", md: "100vh" }
+                minHeight: { xs: "600px", md: "100vh" },
+                height: "70vh"
             }}
         >
             <div style={{
