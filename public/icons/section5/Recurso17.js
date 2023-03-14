@@ -72,7 +72,7 @@ const Recurso17 = (props) => (
             />
             <text className="cls-6" transform="translate(249.28 337.13)" style={{
                 fill: "#fff",
-                fontfamily: '"ibm plex sans", sans-serif',
+                fontFamily: "IBMPlexSans,'IBM Plex Sans'",
                 fontSize: "25.46px",
             }}>
                 <tspan x={0} y={0}>
@@ -84,7 +84,7 @@ const Recurso17 = (props) => (
                 <tspan x={147.91} y={0}>
                     {"ocio Fin"}
                 </tspan>
-                <tspan x={235.27} y={0}>
+                <tspan x={235.27} y={0} style={{ letterSpacing: 0 }}>
                     {"t"}
                 </tspan>
                 <tspan x={243.97} y={0}>
@@ -133,7 +133,7 @@ const Recurso17 = (props) => (
             />
             <text className="cls-6" transform="translate(607.25 739.72)" style={{
                 fill: "#fff",
-                fontfamily: '"ibm plex sans", sans-serif',
+                fontFamily: "IBMPlexSans,'IBM Plex Sans'",
                 fontSize: "25.46px",
             }}>
                 <tspan x={0} y={0}>
@@ -148,7 +148,7 @@ const Recurso17 = (props) => (
                 <tspan x={51.42} y={30.07}>
                     {"o"}
                 </tspan>
-                <tspan x={65.46} y={30.07} >
+                <tspan x={65.46} y={30.07} style={{ letterSpacing: 0 }}>
                     {"s"}
                 </tspan>
                 <tspan className="cls-4" x={77.49} y={30.07}>
